@@ -1,0 +1,20 @@
+{
+  "name": "data_structure",
+  "version": "1.0.0",
+  "description": "data structure example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRL9/data_structure.git"
+  },
+  "keywords": [],
+  "author": "DRL9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DRL9/data_structure/issues"
+  },
+  "homepage": "https://github.com/DRL9/data_structure#readme"
+}
